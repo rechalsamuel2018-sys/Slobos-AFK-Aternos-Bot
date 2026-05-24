@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Redoubt_SMP.aternos.me",
+    "port": 59441,
     "version": "",
     "try-creative": false
   },
